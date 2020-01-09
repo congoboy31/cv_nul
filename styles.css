@@ -1,0 +1,84 @@
+
+.flotte {
+margin-left: 15%;
+float: left;
+padding-top: 40px;
+padding-bottom:40px;
+
+}
+
+.bandeau {
+	background: #01A6FF ;
+	height: 300px;
+	width: 100%;
+}
+
+.presentation{
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	width : 256px;
+	padding-top: 10px;
+	line-height: 10px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.cadre{
+	border-width: 5px;
+	border-color: #337DFF;
+	border-style: solid;
+	width : 250px;
+	height: 70px;
+		margin: 0 auto;
+}
+
+.nom{
+	text-align: center;
+}
+
+.touche{
+	float : left;
+	margin-top: 2%;
+	border-width: 10px;
+	border-color: #00AB12;
+	border-style : solid;
+	width: 20%;
+	text-align: center;
+	margin-left: 3%;
+	border-radius: 10px;
+	background-color: #E1E1E1;
+	vertical-align:middle;
+	line-height: 50px;
+}
+.partie{
+	background-color: #AAE0FC ;
+	width: 30%;
+	float: left;
+	margin-left: 13.3%;
+	margin-top: 4%;
+	
+}
+
+.petit_titre{
+	padding-top: 5%;
+	padding-left: 5%;
+	text-decoration: underline;
+	font-size: 20px;
+
+}
+
+.soustitre{
+	padding-left: 15%;
+	line-height: 50px;
+}
+
+
+
+
+
+
+
+
+
